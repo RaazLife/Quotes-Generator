@@ -1,1 +1,8 @@
+<body>
+  <h1>JSON Data Links</h1>
+  <ul>
+    <li><a href="path/to/funny.json">Funny JSON Data</a></li>
+    <li><a href="path/to/motivation.json">Motivation JSON Data</a></li>
+  </ul>
+</body>
 
