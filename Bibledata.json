@@ -1,0 +1,44 @@
+{
+  "Bible": {
+    "Old Testament": {
+      "Genesis": {
+        "1": {
+          "1": "In the beginning, God created the heavens and the earth.",
+          "2": "The earth was formless and empty, and darkness covered the deep waters."
+        },
+        "2": {
+          "1": "So the creation of the heavens and the earth and everything in them was completed."
+        },
+        // ... Continue with more chapters and verses in Genesis ...
+      },
+      "Exodus": {
+        "20": {
+          "1": "Then God gave the people all these instructions:"
+        },
+        "21": {
+          "1": "These are the regulations you must present to Israel."
+        }
+        // ... Continue with more chapters and verses in Exodus ...
+      },
+      // ... Include more books from the Old Testament ...
+    },
+    "New Testament": {
+      "Matthew": {
+        "5": {
+          "1": "One day as he saw the crowds gathering, Jesus went up on the mountainside and sat down."
+        },
+        "6": {
+          "9": "Pray like this: Our Father in heaven, may your name be kept holy."
+        }
+        // ... Continue with more chapters and verses in Matthew ...
+      },
+      "John": {
+        "3": {
+          "16": "For this is how God loved the world: He gave his one and only Son so that everyone who believes in him will not perish but have eternal life."
+        }
+        // ... Continue with more chapters and verses in John ...
+      },
+      // ... Include more books from the New Testament ...
+    }
+  }
+}
