@@ -1,7 +1,7 @@
 {
   "electronics": [
-    { "name": "Smartphone", "link": "smartphone_product_page.html" },
-    { "name": "Laptop", "link": "laptop_product_page.html" }
+    { "name": "Smartphone", "link": "https://www.amazon.in/Fire-Boltt-Bluetooth-Calling-Assistance-Resolution/dp/B0BF57RN3K?ref_=Oct_DLandingS_D_81486f94_0&th=1" },
+    { "name": "Laptop", "link": "https://www.amazon.in/Fire-Boltt-Bluetooth-Calling-Assistance-Resolution/dp/B0BF57RN3K?ref_=Oct_DLandingS_D_81486f94_0&th=1" }
   ],
   "clothing": [
     { "name": "T-Shirt", "link": "tshirt_product_page.html" },
