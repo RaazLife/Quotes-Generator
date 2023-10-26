@@ -1,15 +1,19 @@
 {
-  "book": "Genesis",
-  "chapters": 50,
-  "text": [
-    [
-      "In the beginning God created the heaven and the earth.",
-      "And the earth was without form, and void; and darkness was upon the face of the deep."
-    ],
-    [
-      "And God said, Let there be light: and there was light.",
-      "And God saw the light, that it was good."
-    ]
-    
+  "books": [
+    {
+      "name": "Genesis",
+      "chapters": 2,
+      "text": [
+        [
+          "In the beginning God created the heaven and the earth.",
+          "And the earth was without form, and void; and darkness was upon the face of the deep."
+        ],
+        [
+          "And God said, Let there be light: and there was light.",
+          "And God saw the light, that it was good."
+        ]
+      ]
+    }
+    // Add more books and their data as needed
   ]
 }
