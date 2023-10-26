@@ -1,0 +1,14 @@
+{
+  "electronics": [
+    { "name": "Smartphone", "link": "smartphone_product_page.html" },
+    { "name": "Laptop", "link": "laptop_product_page.html" }
+  ],
+  "clothing": [
+    { "name": "T-Shirt", "link": "tshirt_product_page.html" },
+    { "name": "Jeans", "link": "jeans_product_page.html" }
+  ],
+  "books": [
+    { "name": "Novel", "link": "novel_product_page.html" },
+    { "name": "Textbook", "link": "textbook_product_page.html" }
+  ]
+}
