@@ -1,0 +1,28 @@
+{
+    "male": {
+        "USA": {
+            "John": "God is gracious",
+            "Michael": "Who is like God"
+            // Add more male names for the USA
+        },
+        "Canada": {
+            "William": "Strong-willed warrior",
+            "James": "Supplanter"
+            // Add more male names for Canada
+        }
+        // Add more countries and their male names
+    },
+    "female": {
+        "USA": {
+            "Emily": "Industrious, striving",
+            "Emma": "Universal"
+            // Add more female names for the USA
+        },
+        "Canada": {
+            "Olivia": "Olive tree",
+            "Sophia": "Wisdom"
+            // Add more female names for Canada
+        }
+        // Add more countries and their female names
+    }
+}
