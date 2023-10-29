@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Transport Company 1",
+        "mode": "Mode 1",
+        "description": "Description of the transportation service 1",
+        "contact": "+123456789",
+        "website": "https://www.example.com/transportation1",
+        "image": "https://www.example.com/transportation/images/image1.jpg",
+        "category": "Online Transportation"
+    },
+    {
+        "name": "Transport Company 2",
+        "mode": "Mode 2",
+        "description": "Description of the transportation service 2",
+        "contact": "+987654321",
+        "website": "https://www.example.com/transportation2",
+        "image": "https://www.example.com/transportation/images/image2.jpg",
+        "category": "Online Transportation"
+    }
+]
+
