@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Blog Post 1",
+        "url": "https://www.example.com/blog/post1",
+        "description": "Description of the blog post 1",
+        "author": "Author 1",
+        "datePublished": "2023-10-30",
+        "tags": ["tag1", "tag2", "tag3"],
+        "image": "https://www.example.com/blog/images/image1.jpg",
+        "category": "Blog"
+    },
+    {
+        "title": "Blog Post 2",
+        "url": "https://www.example.com/blog/post2",
+        "description": "Description of the blog post 2",
+        "author": "Author 2",
+        "datePublished": "2023-10-29",
+        "tags": ["tag4", "tag5"],
+        "image": "https://www.example.com/blog/images/image2.jpg",
+        "category": "Blog"
+    }
+]
