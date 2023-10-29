@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Hotel Name 1",
+        "location": "Location 1",
+        "description": "Description of the hotel 1",
+        "rating": 4.5,
+        "address": "Address 1",
+        "image": "https://www.example.com/hotels/images/image1.jpg",
+        "category": "Online Hotels"
+    },
+    {
+        "name": "Hotel Name 2",
+        "location": "Location 2",
+        "description": "Description of the hotel 2",
+        "rating": 4.8,
+        "address": "Address 2",
+        "image": "https://www.example.com/hotels/images/image2.jpg",
+        "category": "Online Hotels"
+    }
+]
