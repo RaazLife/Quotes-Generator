@@ -10,7 +10,7 @@
         "avatar": "avatar1.jpg"
       },
       "url": "post1.html"
-      "publishDate": "2024-02-15"
+      
     },
     {
       "title": "Post 2",
@@ -22,7 +22,7 @@
         "avatar": "avatar2.jpg"
       },
       "url": "post2.html"
-      "publishDate": "2024-02-15"
+      
     },
     {
       "title": "Post 3",
@@ -34,7 +34,7 @@
         "avatar": "avatar2.jpg"
       },
       "url": "post2.html"
-      "publishDate": "2024-02-15"
+     
     },
     {
       "title": "Post 4",
@@ -46,7 +46,7 @@
         "avatar": "avatar2.jpg"
       },
       "url": "post2.html"
-      "publishDate": "2024-02-15"
+      
     },
     {
       "title": "Post 4",
@@ -58,7 +58,7 @@
         "avatar": "avatar2.jpg"
       },
       "url": "post2.html"
-      "publishDate": "2024-02-15"
+      
     }
     
   ]
