@@ -21,7 +21,7 @@
         "avatar": "avatar2.jpg"
       },
       "url": "post2.html"
-    }
-    // Add more posts as needed, just ensure there's no trailing comma after the last item
+    },
+    
   ]
 }
