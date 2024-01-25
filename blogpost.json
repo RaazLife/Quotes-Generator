@@ -8,9 +8,10 @@
       "author": {
         "name": "John Doe",
         "avatar": "avatar1.jpg"
+         "publishDate": "2024-01-28"
       },
       "url": "post1.html"
-      "publishDate": "2024-01-28"
+      
       
     },
     {
@@ -21,9 +22,10 @@
       "author": {
         "name": "Jane Doe",
         "avatar": "avatar2.jpg"
+         "publishDate": "2024-01-28"
       },
       "url": "post2.html"
-      "publishDate": "2024-01-28"
+      
       
     },
     {
@@ -34,9 +36,10 @@
       "author": {
         "name": "Jane Doe",
         "avatar": "avatar2.jpg"
+         "publishDate": "2024-01-28"
       },
       "url": "post2.html"
-      "publishDate": "2024-01-28"
+      
      
     },
     {
@@ -47,9 +50,10 @@
       "author": {
         "name": "Jane Doe",
         "avatar": "avatar2.jpg"
+        "publishDate": "2024-01-28"
       },
       "url": "post2.html"
-      "publishDate": "2024-01-28"
+      
       
     },
     {
@@ -60,9 +64,10 @@
       "author": {
         "name": "Jane Doe",
         "avatar": "avatar2.jpg"
+        "publishDate": "2024-01-28"
       },
       "url": "post2.html"
-      "publishDate": "2024-01-28"
+      
       
     }
     
