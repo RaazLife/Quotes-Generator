@@ -10,6 +10,7 @@
         "avatar": "avatar1.jpg"
       },
       "url": "post1.html"
+      "publishDate": "2024-01-28"
       
     },
     {
@@ -22,6 +23,7 @@
         "avatar": "avatar2.jpg"
       },
       "url": "post2.html"
+      "publishDate": "2024-01-28"
       
     },
     {
@@ -34,6 +36,7 @@
         "avatar": "avatar2.jpg"
       },
       "url": "post2.html"
+      "publishDate": "2024-01-28"
      
     },
     {
@@ -46,6 +49,7 @@
         "avatar": "avatar2.jpg"
       },
       "url": "post2.html"
+      "publishDate": "2024-01-28"
       
     },
     {
@@ -58,8 +62,9 @@
         "avatar": "avatar2.jpg"
       },
       "url": "post2.html"
+      "publishDate": "2024-01-28"
       
-    }
+    },
     
   ]
 }
