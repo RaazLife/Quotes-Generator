@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "title": "Post 1",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image": "image1.jpg",
+      "category": "Technology",
+      "author": {
+        "name": "John Doe",
+        "avatar": "avatar1.jpg"
+      },
+      "url": "post1.html"
+    },
+    {
+      "title": "Post 2",
+      "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "image2.jpg",
+      "category": "Travel",
+      "author": {
+        "name": "Jane Doe",
+        "avatar": "avatar2.jpg"
+      },
+      "url": "post2.html"
+    },
+    // Add more posts as needed
+  ]
+}
