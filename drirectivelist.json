@@ -20,6 +20,5 @@
             { "name": "Premium", "price": "$30/month" }
         ],
         "websiteUrl": "https://www.samplewebsite2.com"
-    },
-    
+    }
 ]
