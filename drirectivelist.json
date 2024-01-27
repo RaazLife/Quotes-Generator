@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Sample Website 1",
+        "category": "E-commerce",
+        "description": "A sample website with great products",
+        "products": ["Product A", "Product B", "Product C"],
+        "plans": [
+            { "name": "Basic", "price": "$10/month" },
+            { "name": "Pro", "price": "$20/month" }
+        ],
+        "websiteUrl": "https://www.samplewebsite1.com"
+    },
+    {
+        "name": "Sample Website 2",
+        "category": "Services",
+        "description": "Explore various services offered",
+        "products": ["Service X", "Service Y", "Service Z"],
+        "plans": [
+            { "name": "Starter", "price": "$15/month" },
+            { "name": "Premium", "price": "$30/month" }
+        ],
+        "websiteUrl": "https://www.samplewebsite2.com"
+    },
+    {
+        "name": "Tech Solutions",
+        "category": "Technology",
+        "description": "Providing innovative tech solutions",
+        "products": ["Software Development", "IT Consulting", "Data Analytics"],
+        "plans": [
+            { "name": "Standard", "price": "$25/hour" },
+            { "name": "Enterprise", "price": "$50/hour" }
+        ],
+        "websiteUrl": "https://www.techsolutions.com"
+    },
+    {
+        "name": "Fashion Hub",
+        "category": "Fashion",
+        "description": "Trendy fashion for all occasions",
+        "products": ["Clothing", "Accessories", "Footwear"],
+        "plans": [
+            { "name": "Stylish Package", "price": "$50/month" },
+            { "name": "Luxury Package", "price": "$100/month" }
+        ],
+        "websiteUrl": "https://www.fashionhub.com"
+    }
+    // Add more entries as needed
+]
