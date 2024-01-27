@@ -11,6 +11,96 @@
         "websiteUrl": "https://www.samplewebsite1.com"
     },
     {
+        "name": "Sample Website 1",
+        "category": "Travel",
+        "description": "A sample website with great products",
+        "products": ["Product A", "Product B", "Product C"],
+        "plans": [
+            { "name": "Basic", "price": "$10/month" },
+            { "name": "Pro", "price": "$20/month" }
+        ],
+        "websiteUrl": "https://www.samplewebsite1.com"
+    },
+    {
+        "name": "Sample Website 1",
+        "category": "Travel",
+        "description": "A sample website with great products",
+        "products": ["Product A", "Product B", "Product C"],
+        "plans": [
+            { "name": "Basic", "price": "$10/month" },
+            { "name": "Pro", "price": "$20/month" }
+        ],
+        "websiteUrl": "https://www.samplewebsite1.com"
+    },
+    {
+        "name": "Sample Website 1",
+        "category": "E-commerce",
+        "description": "A sample website with great products",
+        "products": ["Product A", "Product B", "Product C"],
+        "plans": [
+            { "name": "Basic", "price": "$10/month" },
+            { "name": "Pro", "price": "$20/month" }
+        ],
+        "websiteUrl": "https://www.samplewebsite1.com"
+    },
+    {
+        "name": "Sample Website 1",
+        "category": "E-commerce",
+        "description": "A sample website with great products",
+        "products": ["Product A", "Product B", "Product C"],
+        "plans": [
+            { "name": "Basic", "price": "$10/month" },
+            { "name": "Pro", "price": "$20/month" }
+        ],
+        "websiteUrl": "https://www.samplewebsite1.com"
+    },
+    {
+        "name": "Sample Website 1",
+        "category": "E-commerce",
+        "description": "A sample website with great products",
+        "products": ["Product A", "Product B", "Product C"],
+        "plans": [
+            { "name": "Basic", "price": "$10/month" },
+            { "name": "Pro", "price": "$20/month" }
+        ],
+        "websiteUrl": "https://www.samplewebsite1.com"
+    },
+    {
+        "name": "Sample Website 1",
+        "category": "E-commerce",
+        "description": "A sample website with great products",
+        "products": ["Product A", "Product B", "Product C"],
+        "plans": [
+            { "name": "Basic", "price": "$10/month" },
+            { "name": "Pro", "price": "$20/month" }
+        ],
+        "websiteUrl": "https://www.samplewebsite1.com"
+    },
+    {
+        "name": "Sample Website 1",
+        "category": "E-commerce",
+        "description": "A sample website with great products",
+        "products": ["Product A", "Product B", "Product C"],
+        "plans": [
+            { "name": "Basic", "price": "$10/month" },
+            { "name": "Pro", "price": "$20/month" }
+        ],
+        "websiteUrl": "https://www.samplewebsite1.com"
+    },
+    {
+        "name": "Sample Website 1",
+        "category": "E-commerce",
+        "description": "A sample website with great products",
+        "products": ["Product A", "Product B", "Product C"],
+        "plans": [
+            { "name": "Basic", "price": "$10/month" },
+            { "name": "Pro", "price": "$20/month" }
+        ],
+        "websiteUrl": "https://www.samplewebsite1.com"
+    },
+
+    
+    {
         "name": "Sample Website 2",
         "category": "Services",
         "description": "Explore various services offered",
