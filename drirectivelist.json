@@ -8,7 +8,7 @@
             { "name": "Basic", "price": "$10/month" },
             { "name": "Pro", "price": "$20/month" }
         ],
-        "websiteUrl": "https://www.samplewebsite1.com"
+        "websiteUrl": "https://www.samplewebsite1.com",
         "coverImage": "https://example.com/cover1.jpg",
         "location": "New York, USA"
     },
@@ -21,7 +21,7 @@
             { "name": "Basic", "price": "$10/month" },
             { "name": "Pro", "price": "$20/month" }
         ],
-        "websiteUrl": "https://www.samplewebsite1.com"
+        "websiteUrl": "https://www.samplewebsite1.com",
         "coverImage": "https://example.com/cover1.jpg",
         "location": "New York, USA"
     },
@@ -34,7 +34,7 @@
             { "name": "Basic", "price": "$10/month" },
             { "name": "Pro", "price": "$20/month" }
         ],
-        "websiteUrl": "https://www.samplewebsite1.com"
+        "websiteUrl": "https://www.samplewebsite1.com",
         "coverImage": "https://example.com/cover1.jpg",
         "location": "New York, USA"
     },
@@ -47,7 +47,7 @@
             { "name": "Basic", "price": "$10/month" },
             { "name": "Pro", "price": "$20/month" }
         ],
-        "websiteUrl": "https://www.samplewebsite1.com"
+        "websiteUrl": "https://www.samplewebsite1.com",
         "coverImage": "https://example.com/cover1.jpg",
         "location": "New York, USA"
     },
@@ -60,7 +60,7 @@
             { "name": "Basic", "price": "$10/month" },
             { "name": "Pro", "price": "$20/month" }
         ],
-        "websiteUrl": "https://www.samplewebsite1.com"
+        "websiteUrl": "https://www.samplewebsite1.com",
         "coverImage": "https://example.com/cover1.jpg",
         "location": "New York, USA"
     },
@@ -73,7 +73,7 @@
             { "name": "Basic", "price": "$10/month" },
             { "name": "Pro", "price": "$20/month" }
         ],
-        "websiteUrl": "https://www.samplewebsite1.com"
+        "websiteUrl": "https://www.samplewebsite1.com",
         "coverImage": "https://example.com/cover1.jpg",
         "location": "New York, USA"
     },
@@ -86,7 +86,7 @@
             { "name": "Basic", "price": "$10/month" },
             { "name": "Pro", "price": "$20/month" }
         ],
-        "websiteUrl": "https://www.samplewebsite1.com"
+        "websiteUrl": "https://www.samplewebsite1.com",
         "coverImage": "https://example.com/cover1.jpg",
         "location": "New York, USA"
     },
@@ -99,7 +99,7 @@
             { "name": "Basic", "price": "$10/month" },
             { "name": "Pro", "price": "$20/month" }
         ],
-        "websiteUrl": "https://www.samplewebsite1.com"
+        "websiteUrl": "https://www.samplewebsite1.com",
         "coverImage": "https://example.com/cover1.jpg",
         "location": "New York, USA"
     },
@@ -112,7 +112,7 @@
             { "name": "Basic", "price": "$10/month" },
             { "name": "Pro", "price": "$20/month" }
         ],
-        "websiteUrl": "https://www.samplewebsite1.com"
+        "websiteUrl": "https://www.samplewebsite1.com",
         "coverImage": "https://example.com/cover1.jpg",
         "location": "New York, USA"
     },
@@ -127,7 +127,7 @@
             { "name": "Starter", "price": "$15/month" },
             { "name": "Premium", "price": "$30/month" }
         ],
-        "websiteUrl": "https://www.samplewebsite2.com"
+        "websiteUrl": "https://www.samplewebsite2.com",
         "coverImage": "https://example.com/cover1.jpg",
         "location": "New York, USA"
     }
