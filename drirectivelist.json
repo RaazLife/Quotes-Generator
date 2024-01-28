@@ -9,7 +9,7 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com",
-        "coverImage": "https://example.com/cover1.jpg",
+        "coverImage": "https://www.zletai.com/zletaiindex.png",
         "location": "New York, USA"
     },
     {
@@ -22,7 +22,7 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com",
-        "coverImage": "https://example.com/cover1.jpg",
+        "coverImage": "https://www.zletai.com/zletaiindex.png",
         "location": "New York, USA"
     },
     {
@@ -35,7 +35,7 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com",
-        "coverImage": "https://example.com/cover1.jpg",
+        "coverImage": "https://www.zletai.com/zletaiindex.png",
         "location": "New York, USA"
     },
     {
@@ -48,7 +48,7 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com",
-        "coverImage": "https://example.com/cover1.jpg",
+        "coverImage": "https://www.zletai.com/zletaiindex.png",
         "location": "New York, USA"
     },
     {
@@ -61,7 +61,7 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com",
-        "coverImage": "https://example.com/cover1.jpg",
+        "coverImage": "https://www.zletai.com/zletaiindex.png",
         "location": "New York, USA"
     },
     {
@@ -74,7 +74,7 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com",
-        "coverImage": "https://example.com/cover1.jpg",
+        "coverImage": "https://www.zletai.com/zletaiindex.png",
         "location": "New York, USA"
     },
     {
@@ -87,7 +87,7 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com",
-        "coverImage": "https://example.com/cover1.jpg",
+        "coverImage": "https://www.zletai.com/zletaiindex.png",
         "location": "New York, USA"
     },
     {
@@ -100,7 +100,7 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com",
-        "coverImage": "https://example.com/cover1.jpg",
+        "coverImage": "https://www.zletai.com/zletaiindex.png",
         "location": "New York, USA"
     },
     {
@@ -113,7 +113,7 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com",
-        "coverImage": "https://example.com/cover1.jpg",
+        "coverImage": "https://www.zletai.com/zletaiindex.png",
         "location": "New York, USA"
     },
 
@@ -128,7 +128,7 @@
             { "name": "Premium", "price": "$30/month" }
         ],
         "websiteUrl": "https://www.samplewebsite2.com",
-        "coverImage": "https://example.com/cover1.jpg",
+        "coverImage": "https://www.zletai.com/zletaiindex.png",
         "location": "New York, USA"
     }
 ]
