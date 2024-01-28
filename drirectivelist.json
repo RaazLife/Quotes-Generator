@@ -40,7 +40,7 @@
     },
     {
         "name": "Sample Website 1",
-        "category": "E-commerce",
+        "category": "Fashion Hub",
         "description": "A sample website with great products",
         "products": ["Product A", "Product B", "Product C"],
         "plans": [
