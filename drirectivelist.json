@@ -9,6 +9,8 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com"
+        "coverImage": "https://example.com/cover1.jpg",
+        "location": "New York, USA"
     },
     {
         "name": "Sample Website 1",
@@ -20,6 +22,8 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com"
+        "coverImage": "https://example.com/cover1.jpg",
+        "location": "New York, USA"
     },
     {
         "name": "Sample Website 1",
@@ -31,6 +35,8 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com"
+        "coverImage": "https://example.com/cover1.jpg",
+        "location": "New York, USA"
     },
     {
         "name": "Sample Website 1",
@@ -42,6 +48,8 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com"
+        "coverImage": "https://example.com/cover1.jpg",
+        "location": "New York, USA"
     },
     {
         "name": "Sample Website 1",
@@ -53,6 +61,8 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com"
+        "coverImage": "https://example.com/cover1.jpg",
+        "location": "New York, USA"
     },
     {
         "name": "Sample Website 1",
@@ -64,6 +74,8 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com"
+        "coverImage": "https://example.com/cover1.jpg",
+        "location": "New York, USA"
     },
     {
         "name": "Sample Website 1",
@@ -75,6 +87,8 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com"
+        "coverImage": "https://example.com/cover1.jpg",
+        "location": "New York, USA"
     },
     {
         "name": "Sample Website 1",
@@ -86,6 +100,8 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com"
+        "coverImage": "https://example.com/cover1.jpg",
+        "location": "New York, USA"
     },
     {
         "name": "Sample Website 1",
@@ -97,6 +113,8 @@
             { "name": "Pro", "price": "$20/month" }
         ],
         "websiteUrl": "https://www.samplewebsite1.com"
+        "coverImage": "https://example.com/cover1.jpg",
+        "location": "New York, USA"
     },
 
     
@@ -110,5 +128,7 @@
             { "name": "Premium", "price": "$30/month" }
         ],
         "websiteUrl": "https://www.samplewebsite2.com"
+        "coverImage": "https://example.com/cover1.jpg",
+        "location": "New York, USA"
     }
 ]
