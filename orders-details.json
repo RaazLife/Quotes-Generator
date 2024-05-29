@@ -8,9 +8,9 @@
     "Country": "USA",
     "State": "California",
     "City": "San Francisco",
-    "AmountPaid": ₹100.50,
+    "AmountPaid": 100.50,
     "AccountStatus": "Approved",
-    "TotalRoiGainedTillDate": ₹10.25
+    "TotalRoiGainedTillDate": 10.25
   },
   {
     "OrderId": "123457",
