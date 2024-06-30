@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Professional",
+    "template": "<div style='font-family: Arial;'><strong>{name}</strong><br>{jobTitle}<br>{company}<br><a href='mailto:{email}'>{email}</a><br>{phone}<br>{website}</div>"
+  },
+  {
+    "id": 2,
+    "name": "Minimalist",
+    "template": "<div style='font-family: Verdana; color: #333;'><strong>{name}</strong><br>{jobTitle}<br><a href='mailto:{email}'>{email}</a></div>"
+  },
+  {
+    "id": 3,
+    "name": "Creative",
+    "template": "<div style='font-family: Tahoma; color: #4CAF50;'><h2>{name}</h2><p>{jobTitle} at {company}</p><p><a href='mailto:{email}'>{email}</a> | {phone} | <a href='{website}'>{website}</a></p></div>"
+  }
+]
